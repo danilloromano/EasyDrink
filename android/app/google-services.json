@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "335994361437",
+    "project_id": "easydrink-acbd7",
+    "storage_bucket": "easydrink-acbd7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:335994361437:android:f0fbbf3ca86fc5ae695fb4",
+        "android_client_info": {
+          "package_name": "com.easydrink"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "335994361437-g4b7vrmjjnjeg12qj804m8ivce9cjjig.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4f_3EaW62aQmU9qVPtH_upJ9mdeb8Wuo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "335994361437-g4b7vrmjjnjeg12qj804m8ivce9cjjig.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
